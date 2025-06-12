@@ -29,7 +29,7 @@ Ada's Spark Memory Engine "Ada's Living Story" - Semantic Search ML System
 - **Innovation:** Combined t-SNE dimensionality reduction with DBSCAN clustering to overcome limitations of traditional methods
 - **Impact:** Replaced manual expert analysis bottleneck, enabling company to help more patients
 - **Technologies:** Python, t-SNE, DBSCAN, PCA, scikit-learn, data visualization
-- **Full Case Study:** [Blog Post](https://jmswenson.github.io/flow.html) | Code snippet (going to the blog post instead is highly recommended): `read_csvs_tSNE_DBSCAN_save_output-blast-only.ipynb`
+- **Full Details:** [Blog Post](https://jmswenson.github.io/flow.html) with complete methodology and results
 
 ### Gmail-Calendar Integration Automation
 **Personal Productivity Tool with API Integration**
