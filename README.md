@@ -4,14 +4,15 @@ Welcome to my data science portfolio! I'm a data scientist passionate about buil
 
 ## 🚀 Featured Projects
 
-Ada's Spark Memory Engine "Ada's Living Story" - Semantic Search ML System
-**End-to-End ML Pipeline for Memorial Knowledge Base**
-- **Problem:** Created a searchable memory system to preserve and share the story of a 5-year-old who passed from leukemia, helping families and donors learn from her journey
-- **Architecture:** Full-stack ML system: web scraping → data processing → LLM-powered Q&A generation → vector embeddings → semantic search API → responsive frontend
+### Ada's Spark Memory Engine "[Ada's Living Story](https://adas-spark.org/adas-living-story)" - Multi-Modal RAG System
+**End-to-End NLP Pipeline for Memorial Knowledge Base**
+- **Problem:** Created a searchable memory system to preserve and share the story of a 5-year-old who passed from leukemia, helping families and donors learn from and be inspire to action by her journey
+- **Architecture:** Multi-modal RAG system: web scraping → data processing → LLM-powered Q&A generation → vector embeddings → semantic search API → responsive frontend
 - **Technologies:** Python, Selenium, Pinecone Vector DB, Vue.js, LLM integration (Gemini), semantic search, REST APIs
-- **Technical Leadership:** Designed scalable architecture that can support multiple data sources (CaringBridge journals, newsletters, community memories) with quality control
-- **Data Engineering:** Built robust ETL pipeline processing hierarchical social media data with 300+ quality-controlled Q&A pairs and vector embeddings
-- **Impact:** Deployed production system enabling semantic search of childhood cancer experiences for families, donors, and advocates. Currently hosted at adas-spark.org/memory-engine with plans to move it to adas-spark.org/adas-living-story
+- **Collaboration:** Co-developed with technical collaborator who enhanced scraping capabilities and provided frontend foundation; leveraged AI coding agents to build sophisticated Vue.js interface despite limited frontend experience
+- **Data Engineering:** Engineered comprehensive ETL pipeline including automated image processing pipeline, LLM-powered Q&A generation workflow, and quality control systems supporting production deployment with 1000+ searchable question-answer pairs
+- **Innovation:** Built captioning system using multi-prompt AI captioning with temporal context injection, processing photos to generate empathetic descriptions; implemented semantic photo-answer matching enabling multi-modal retrieval across text and visual content
+- **Impact:** Deployed production system enabling semantic search of childhood cancer experiences. Live at [adas-spark.org/adas-living-story](https://adas-spark.org/adas-living-story)
 - **Repository:** [Adas-Spark/code](https://github.com/Adas-Spark/code)
 
 ### Breast Cancer Classification Challenge
